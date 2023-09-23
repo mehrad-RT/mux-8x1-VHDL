@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "/home/ise/Downloads/digital/mux8x1/mux8x1_isim_beh.exe" -prj "/home/ise/Downloads/digital/mux8x1/mux8x1_beh.prj" "work.mux8x1" 
